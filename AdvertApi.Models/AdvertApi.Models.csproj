@@ -8,6 +8,7 @@
     <PackageProjectUrl>https://github.com/rolandolv/advert</PackageProjectUrl>
     <RepositoryUrl>https://github.com/rolandolv/advert</RepositoryUrl>
     <PackageId>Rolandolv.AdvertApi.Models</PackageId>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
